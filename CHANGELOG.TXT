@@ -1,0 +1,2 @@
+1.0.0
+	Import from tecnick.com/tcpdf to work with laravel 4.2.22 and PHP 7.4
